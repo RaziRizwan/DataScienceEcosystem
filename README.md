@@ -1,8 +1,1 @@
-# Tools for Data Science
-
-<img src="https://research.aimultiple.com/wp-content/uploads/2018/02/ds_stack_tools-800x634.webp"  />
-
-# Understanding the Data Science Lifecycle
-
-<img src="https://www.sudeep.co/images/post_images/2018-02-09-Understanding-the-Data-Science-Lifecycle/chart.png"  />
-
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*D73Nx1Cm_8OIbka6hkOLXA.png"  />
